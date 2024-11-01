@@ -1,4 +1,4 @@
-## Hi there 👋
+## undergraduate student, majoring in Mathematics and Applied Mathematics, interested in AI, CS and Physics.
 
 <!--
 **scarlett-2023/scarlett-2023** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
